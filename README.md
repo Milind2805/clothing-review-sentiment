@@ -48,5 +48,5 @@ returns or visible damage that were still rated 4-5 stars.
 5. Pushed to Hugging Face Hub, deployed via Streamlit
 
 ## Repo contents
--  — full pipeline: EDA, baseline, fine-tuning, evaluation, SHAP
+- [(clothing-review-sentiment-app/clothing_review_sentiment_analysis.ipynb)] — full pipeline: EDA, baseline, fine-tuning, evaluation, SHAP
 - App code: see [clothing-review-sentiment-app](https://github.com/Milind2805/clothing-review-sentiment-app)
